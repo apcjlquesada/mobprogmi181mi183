@@ -1,4 +1,13 @@
 Full Name: Jesus M. Bermudo
 Nickname: Janjan
 
+<<<<<<< HEAD
 Hello
+=======
+Hello
+
+
+HI -
+
+thanks!
+>>>>>>> 0e5487c6a04335edf18590d15aa68601df768403

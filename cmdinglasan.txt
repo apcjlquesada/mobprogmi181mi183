@@ -1,2 +1,10 @@
 Full Name: Christian Dinglasan
+<<<<<<< HEAD
 Nickname: ding
+=======
+Nickname: ding
+
+69
+
+thank you
+>>>>>>> 0e5487c6a04335edf18590d15aa68601df768403
