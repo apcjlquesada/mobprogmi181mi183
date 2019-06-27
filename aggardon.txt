@@ -1,4 +1,8 @@
 Nickname:  AaronFullname: Aaron Gavarra Gardon Jr.
 Nickname: Aeron
 
+<<<<<<< HEAD
 cute mo naman
+=======
+Irron -brent
+>>>>>>> c7e129aee7197dc53b612f26a3e4e5b0b4583cd7
