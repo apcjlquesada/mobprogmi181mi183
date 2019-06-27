@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 Joy Hazzel F. Belanio
+=======
+Joy Hazzel F. Belanio
+>>>>>>> 01f620d661cc70da056f25e203a6ef50a4e8e44c
 Hazzel
