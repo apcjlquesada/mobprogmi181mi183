@@ -1,4 +1,10 @@
+<<<<<<< HEAD
 adaquino@student.apc.edu.ph
 
 Name: Alexis D. Aquino	
+=======
+adaquino@student.apc.edu.ph
+
+Name: Alexis D. Aquino	
+>>>>>>> 0e5487c6a04335edf18590d15aa68601df768403
 Nickname: Alex

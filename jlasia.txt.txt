@@ -1,2 +1,6 @@
 John Ace L. Asia
 Ace
+<<<<<<< HEAD
+gg
+=======
+>>>>>>> fd5fab1853978e6ea340173d97d0de457ceecfad
